@@ -1,0 +1,21 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dataset files (keep locally, don't upload to GitHub)
+data/
+
+# Operating system files
+.DS_Store
+Thumbs.db
