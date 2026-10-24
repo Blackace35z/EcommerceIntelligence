@@ -68,11 +68,10 @@ Download the Excel dataset and place it in the `data/` directory with this exact
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Blackace35z/EcommerceIntelligence.git
 cd EcommerceIntelligence
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository's actual URL after publishing.
 
 ### 2. Create a virtual environment
 
